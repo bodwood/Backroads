@@ -21,4 +21,26 @@ export const socialLinks = [
     href: 'https://www.squarespace.com',
     icon: 'fab fa-squarespace',
   },
-]
+];
+
+export const services = [
+  {
+    id: 1,
+    icon: 'fas fa-wallet fa-fw',
+    serviceH4: 'saving money',
+    serviceP: 'Save money, adventure big.',
+  },
+  {
+    id: 2,
+    icon: 'fas fa-tree fa-fw',
+    serviceH4: 'endless hiking',
+    serviceP: 'Hiking is always amazing. Join us.',
+  },
+  {
+    id: 3,
+    icon: 'fas fa-socks fa-fw',
+    serviceH4: 'amazing comfort',
+    serviceP: 'Stress free & Comfortable.',
+  },
+];
+
