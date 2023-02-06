@@ -63,9 +63,9 @@ body {
 ul {
   list-style-type: none;
 }
-/* a {
+a {
   text-decoration: none;
-} */
+}
 img:not(.nav-logo) {
   width: 100%;
   display: block;
