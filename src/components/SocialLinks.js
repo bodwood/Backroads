@@ -1,5 +1,3 @@
-import { socialLinks } from "../data"
-
 const SocialLinks = ({href, icon, itemClass}) => {
   return (
           <li>
